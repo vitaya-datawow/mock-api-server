@@ -1,0 +1,288 @@
+{
+  "projects": [
+    {
+      "id": "PROJ-001",
+      "projectId": "MAS-0001",
+      "projectNumber": "GME-1234",
+      "name": "SH-20021010-02 Update Pillar",
+      "statusId": "In Progress",
+      "customer": "ELEVATE",
+      "serviceArea": "Structural Engineering",
+      "totalMember": 15,
+      "createdAt": "2023-11-27T12:00:00Z",
+      "updatedAt": "2023-11-27T12:05:00Z"
+    },
+    {
+      "id": "PROJ-002",
+      "projectId": "MAS-0002",
+      "projectNumber": "GME-5678",
+      "name": "SH-20021010-03 Pillar Refactoring",
+      "statusId": "Completed",
+      "customer": "ASCEND",
+      "serviceArea": "Civil Engineering",
+      "totalMember": 22,
+      "createdAt": "2023-11-27T12:10:00Z",
+      "updatedAt": "2023-11-27T12:15:00Z"
+    },
+    {
+      "id": "PROJ-003",
+      "projectId": "MAS-0003",
+      "projectNumber": "GME-9012",
+      "name": "SH-20021010-04 Enhance Pillar",
+      "statusId": "On Hold",
+      "customer": "LIFT",
+      "serviceArea": "Mechanical Engineering",
+      "totalMember": 18,
+      "createdAt": "2023-11-27T12:20:00Z",
+      "updatedAt": "2023-11-27T12:25:00Z"
+    },
+    {
+      "id": "PROJ-004",
+      "projectId": "MAS-0004",
+      "projectNumber": "GME-3456",
+      "name": "SH-20021010-05 Pillar Integration",
+      "statusId": "Proposal Preparation",
+      "customer": "RAISE",
+      "serviceArea": "Electrical Engineering",
+      "totalMember": 25,
+      "createdAt": "2023-11-27T12:30:00Z",
+      "updatedAt": "2023-11-27T12:35:00Z"
+    },
+    {
+      "id": "PROJ-005",
+      "projectId": "MAS-0005",
+      "projectNumber": "GME-7890",
+      "name": "SH-20021010-06 Pillar Optimization",
+      "statusId": "In Progress",
+      "customer": "ELEVATE",
+      "serviceArea": "Environmental Engineering",
+      "totalMember": 20,
+      "createdAt": "2023-11-27T12:40:00Z",
+      "updatedAt": "2023-11-27T12:45:00Z"
+    },
+    {
+      "id": "PROJ-006",
+      "projectId": "MAS-0006",
+      "projectNumber": "GME-2345",
+      "name": "SH-20021010-07 Pillar Maintenance",
+      "statusId": "Completed",
+      "customer": "ASCEND",
+      "serviceArea": "Chemical Engineering",
+      "totalMember": 30,
+      "createdAt": "2023-11-27T12:50:00Z",
+      "updatedAt": "2023-11-27T12:55:00Z"
+    },
+    {
+      "id": "PROJ-007",
+      "projectId": "MAS-0007",
+      "projectNumber": "GME-6789",
+      "name": "SH-20021010-08 Pillar Security",
+      "statusId": "On Hold",
+      "customer": "LIFT",
+      "serviceArea": "Software Engineering",
+      "totalMember": 17,
+      "createdAt": "2023-11-27T13:00:00Z",
+      "updatedAt": "2023-11-27T13:05:00Z"
+    },
+    {
+      "id": "PROJ-008",
+      "projectId": "MAS-0008",
+      "projectNumber": "GME-0123",
+      "name": "SH-20021010-09 Pillar Analytics",
+      "statusId": "Proposal Preparation",
+      "customer": "RAISE",
+      "serviceArea": "Data Science",
+      "totalMember": 28,
+      "createdAt": "2023-11-27T13:10:00Z",
+      "updatedAt": "2023-11-27T13:15:00Z"
+    },
+    {
+      "id": "PROJ-009",
+      "projectId": "MAS-0009",
+      "projectNumber": "GME-4567",
+      "name": "SH-20021010-10 Pillar Automation",
+      "statusId": "In Progress",
+      "customer": "ELEVATE",
+      "serviceArea": "Automation Engineering",
+      "totalMember": 23,
+      "createdAt": "2023-11-27T13:20:00Z",
+      "updatedAt": "2023-11-27T13:25:00Z"
+    },
+    {
+      "id": "PROJ-010",
+      "projectId": "MAS-0010",
+      "projectNumber": "GME-8901",
+      "name": "SH-20021010-11 Pillar Testing",
+      "statusId": "Completed",
+      "customer": "ASCEND",
+      "serviceArea": "Quality Assurance",
+      "totalMember": 19,
+      "createdAt": "2023-11-27T13:30:00Z",
+      "updatedAt": "2023-11-27T13:35:00Z"
+    },
+    {
+      "id": "PROJ-011",
+      "projectId": "MAS-0011",
+      "projectNumber": "GME-2345",
+      "name": "SH-20021010-12 Pillar Validation",
+      "statusId": "On Hold",
+      "customer": "LIFT",
+      "serviceArea": "Validation Engineering",
+      "totalMember": 16,
+      "createdAt": "2023-11-27T13:40:00Z",
+      "updatedAt": "2023-11-27T13:45:00Z"
+    }
+  ],
+  "members": [
+    {
+      "id": "member-1",
+      "fullName": "John Doe",
+      "email": "john.doe@example.com",
+      "employeeNumber": "10011",
+      "role": "Manager",
+      "status": "active",
+      "createdAt": "2023-11-27T14:00:00Z",
+      "updatedAt": "2023-11-27T14:00:00Z"
+    },
+    {
+      "id": "member-2",
+      "fullName": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "employeeNumber": "10012",
+      "role": "Developer",
+      "status": "active",
+      "createdAt": "2023-11-27T14:05:00Z",
+      "updatedAt": "2023-11-27T14:05:00Z"
+    },
+    {
+      "id": "member-3",
+      "fullName": "Bob Johnson",
+      "email": "bob.johnson@example.com",
+      "employeeNumber": "10013",
+      "role": "Tester",
+      "status": "active",
+      "createdAt": "2023-11-27T14:10:00Z",
+      "updatedAt": "2023-11-27T14:10:00Z"
+    },
+    {
+      "id": "member-4",
+      "fullName": "Alice Brown",
+      "email": "alice.brown@example.com",
+      "employeeNumber": "10014",
+      "role": "Designer",
+      "status": "active",
+      "createdAt": "2023-11-27T14:15:00Z",
+      "updatedAt": "2023-11-27T14:15:00Z"
+    },
+    {
+      "id": "member-5",
+      "fullName": "Chris Wilson",
+      "email": "chris.wilson@example.com",
+      "employeeNumber": "10015",
+      "role": "Analyst",
+      "status": "active",
+      "createdAt": "2023-11-27T14:20:00Z",
+      "updatedAt": "2023-11-27T14:20:00Z"
+    },
+    {
+      "id": "member-6",
+      "fullName": "Eva Martinez",
+      "email": "eva.martinez@example.com",
+      "employeeNumber": "10016",
+      "role": "Engineer",
+      "status": "active",
+      "createdAt": "2023-11-27T14:25:00Z",
+      "updatedAt": "2023-11-27T14:25:00Z"
+    },
+    {
+      "id": "member-7",
+      "fullName": "David Thompson",
+      "email": "david.thompson@example.com",
+      "employeeNumber": "10017",
+      "role": "Administrator",
+      "status": "active",
+      "createdAt": "2023-11-27T14:30:00Z",
+      "updatedAt": "2023-11-27T14:30:00Z"
+    },
+    {
+      "id": "member-8",
+      "fullName": "Megan Davis",
+      "email": "megan.davis@example.com",
+      "employeeNumber": "10018",
+      "role": "Architect",
+      "status": "active",
+      "createdAt": "2023-11-27T14:35:00Z",
+      "updatedAt": "2023-11-27T14:35:00Z"
+    },
+    {
+      "id": "member-9",
+      "fullName": "Michael Miller",
+      "email": "michael.miller@example.com",
+      "employeeNumber": "10019",
+      "role": "Consultant",
+      "status": "active",
+      "createdAt": "2023-11-27T14:40:00Z",
+      "updatedAt": "2023-11-27T14:40:00Z"
+    },
+    {
+      "id": "member-10",
+      "fullName": "Olivia Wilson",
+      "email": "olivia.wilson@example.com",
+      "employeeNumber": "10020",
+      "role": "Project Manager",
+      "status": "active",
+      "createdAt": "2023-12-28T14:45:00Z",
+      "updatedAt": "2023-11-27T14:45:00Z"
+    },
+    {
+      "id": "member-11",
+      "fullName": "William Brown",
+      "email": "william.brown@example.com",
+      "employeeNumber": "10021",
+      "role": "Security Analyst",
+      "status": "active",
+      "createdAt": "2023-11-27T14:50:00Z",
+      "updatedAt": "2023-11-27T14:50:00Z"
+    },
+    {
+      "fullName": "Lorem ipsum",
+      "email": "mock@admin.com",
+      "employeeNumber": "0001",
+      "status": "1",
+      "role": "1",
+      "createdAt": "2023-11-28T08:46:17.107Z",
+      "updatedAt": "2023-11-28T08:46:17.107Z",
+      "id": "1701161177"
+    },
+    {
+      "fullName": "Test xxxx",
+      "email": "test@test.com",
+      "employeeNumber": "001",
+      "status": "active",
+      "role": "Admin",
+      "createdAt": "2023-11-28T08:50:39.757Z",
+      "updatedAt": "2023-11-28T08:50:39.757Z",
+      "id": "1701161439"
+    },
+    {
+      "fullName": "Test Test",
+      "email": "test@test.com",
+      "employeeNumber": "01234",
+      "status": "Active",
+      "role": "Admin",
+      "createdAt": "2023-11-28T15:32:55.005Z",
+      "updatedAt": "2023-11-28T15:32:55.005Z",
+      "id": "1701185575"
+    },
+    {
+      "fullName": "Tes5t Test",
+      "email": "test123@test.com",
+      "employeeNumber": "11111",
+      "status": "Inactive",
+      "role": "User",
+      "createdAt": "2023-11-28T15:37:51.066Z",
+      "updatedAt": "2023-11-28T15:37:51.067Z",
+      "id": "1701185871"
+    }
+  ]
+}
